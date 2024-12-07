@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi, I'm Gabriel Deolindo
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to my profile!
+  <img src="https://projectpokemon.org/images/normal-sprite/pikachu.gif" width="30px"/>
 </h1>
 
 <div align="center">
@@ -23,6 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png" title="GML" **alt="Git" width="40" height="40"/>
 </div>
+
+
+
 <!---
 GabrielBoscoDeolindo/GabrielBoscoDeolindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
