@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![b453c862745f1af4fac41d40dd862996](https://github.com/user-attachments/assets/941bcb72-9b91-4c10-9ba6-951aab27487f)
-
-
+<div align="center">
+  
+![7590b091674eb2a9700ecec83dd528c9](https://github.com/user-attachments/assets/37f31f50-526c-41c2-9d6a-22d95084f996)
+  
+</div>
 
 
 ---
