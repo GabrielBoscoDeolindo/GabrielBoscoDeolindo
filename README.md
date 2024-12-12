@@ -20,6 +20,8 @@
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,c,cpp,arduino,mysql,gamemakerstudio" />
   </a>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/{GabrielBoscoDeolindo}/{GabrielBoscoDeolindo}/output/github-contribution-grid-snake-dark.svg)
 <!---
 GabrielBoscoDeolindo/GabrielBoscoDeolindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
