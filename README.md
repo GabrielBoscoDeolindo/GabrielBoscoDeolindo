@@ -16,8 +16,8 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,astro,react,tailwind,c,cpp,arduino,mysql,unity,godot,gamemakerstudio" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,html,css,js,astro,react,tailwind,sass,c,cpp,arduino,mysql,azure,unity,godot,gamemakerstudio" />
   </a>
 </p>
 
