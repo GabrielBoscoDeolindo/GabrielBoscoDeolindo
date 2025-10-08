@@ -5,7 +5,8 @@
 
 <div align="center">
   
-![7590b091674eb2a9700ecec83dd528c9](https://github.com/user-attachments/assets/37f31f50-526c-41c2-9d6a-22d95084f996)
+![b070d4fd535b48bd7b313b2161ee5a28](https://github.com/user-attachments/assets/a77735ed-f55b-441c-89d5-c451f8d2b3ad)
+
   
 </div>
 
