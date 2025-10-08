@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![b070d4fd535b48bd7b313b2161ee5a28](https://github.com/user-attachments/assets/a77735ed-f55b-441c-89d5-c451f8d2b3ad)
+<img width="1200" height="598" alt="eu" src="https://github.com/user-attachments/assets/13e650df-10ea-41c3-bfe4-8e4c0f355d1d" />
 
   
 </div>
