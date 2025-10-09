@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,astro,react,tailwind,sass,c,cpp,arduino,mysql,azure,unity,godot,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,astro,react,tailwind,sass,c,cpp,arduino,mysql,azure,blender,unity,godot,gamemakerstudio" />
   </a>
 </p>
 <!---
