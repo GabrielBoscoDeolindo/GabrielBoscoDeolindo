@@ -17,9 +17,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,astro,react,tailwind,sass,c,cpp,arduino,mysql,azure,blender,unity,godot,gamemakerstudio" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,java,js,astro,expo,react,reactnative,tailwind,sass,c,cpp,arduino,mysql,azure,blender,unity,godot,gamemakerstudio" />
 </p>
 <!---
 GabrielBoscoDeolindo/GabrielBoscoDeolindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
